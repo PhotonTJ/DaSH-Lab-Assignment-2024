@@ -1,0 +1,7 @@
+{
+  "Prompt": "Who was Alan Turing?",
+  "Message": "{\n\"message\": \"Alan Turing was a British mathematician, computer scientist, and logician who made significant contributions to the field of computer science. He is widely considered to be the father of theoretical computer science and artificial intelligence. Turing proposed the concept of a universal machine that could compute anything that is computable. He also made significant contributions to the field of cryptanalysis during World War II, where he helped break the German Enigma code. Turing was also a pioneer in the development of artificial intelligence and is known for formulating the Turing test, a method for determining whether a machine can exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human. Turing was born in London in 1912 and died in 1954.\"}",
+  "TimeSent": 1725007656,
+  "TimeRecvd": 1725007657,
+  "Source": "Groq-Mixtral"
+}
